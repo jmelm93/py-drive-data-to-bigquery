@@ -1,6 +1,6 @@
 ## Quick Data Ingestion from Google Drive Folder
 
-**All files in the Google Drive folder must have the same column names in order for the Bigquery upload to work
+**All files in the Google Drive folder must have the same column names in order for the Bigquery upload to work  
 **The use case for this, for example, is a client dropping some recurring datasets in a drive folder, then this script getting + ingesting that data
 
 ### Create a .env File (ROOT DIRECTORY)
